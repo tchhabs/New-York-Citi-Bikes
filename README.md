@@ -10,8 +10,12 @@ The data we are looking at are sample sizes from 2017 and 2018. Based on the fir
 ![gender distribution](./gender.png)
 
 ### Bike ID Analysis 
+
 The second dashboard shows the top 10 bikes used in New York City. It was interesting to see that all the bikes appear to move throughout the city instead of staying in one particular area, even though, we saw on the last dashboard, that the average bike rides are between 14-18 minutes. Using this graph, we are able to see which bikes are used most and likely needs an inspection or repair.
+
 ![bike_id info](bike_id.png)
 
+
 The data we are looking at are sample sizes from 2017 and 2018. You are able to change the Month and Year when analyzing the map. From the map, we can see that the magority of the Citi Bikes are used in the Manhattan area. We can see that the popularity of bikes varies with the season/month and not so much from 2017 to 2018. 
+
 ![map](map.png)
