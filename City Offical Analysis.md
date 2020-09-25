@@ -1,1 +1,0 @@
-The data we are looking at are sample sizes from 2017 and 2018. You are able to change the Month and Year when analyzing the map. From the map, we can see that the magority of the Citi Bikes are used in the Manhattan area. We can see that the popularity of bikes varies with the season/month and not so much from 2017 to 2018. 
